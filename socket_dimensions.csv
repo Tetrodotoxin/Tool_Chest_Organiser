@@ -1,0 +1,152 @@
+make,size,unit,drive,diameter,height
+Stanley,7mm,metric,3/8”,18,26
+Stanley,8mm,metric,3/8”,18,26
+Stanley,9mm,metric,3/8”,18,26
+Stanley,10mm,metric,3/8”,18,26
+Stanley,11mm,metric,3/8”,18,26
+Stanley,12mm,metric,3/8”,18,26
+Stanley,13mm,metric,3/8”,19,26
+Stanley,14mm,metric,3/8”,20,26
+Stanley,15mm,metric,3/8”,21,26
+Stanley,16mm,metric,3/8”,23,29
+Stanley,17mm,metric,3/8”,24,29
+Stanley,18mm,metric,3/8”,25,29
+Stanley,19mm,metric,3/8”,26,29
+Stanley,14mm deep,metric,3/8”,20,50
+Stanley,15mm deep,metric,3/8”,21,53
+Stanley,16mm deep,metric,3/8”,22,53
+Stanley,17mm deep,metric,3/8”,24,56
+Stanley,18mm deep,metric,3/8”,25,56
+Stanley,1/4”,imperial ,3/8”,18,26
+Stanley,3/8”,imperial ,3/8”,18,26
+Stanley,7/16”,imperial ,3/8”,18,26
+Stanley,1/2”,imperial ,3/8”,19,26
+Stanley,9/16”,imperial ,3/8”,20,26
+Stanley,5/8”,imperial ,3/8”,23,29
+Stanley,11/16”,imperial ,3/8”,25,29
+Stanley,3/4”,imperial ,3/8”,26,29
+Stanley,7/16” deep,imperial ,3/8”,17,46
+Stanley,1/2” deep,imperial ,3/8”,19,45
+Stanley,9/16” deep,imperial ,3/8”,20,50
+Stanley,5/8” deep,imperial ,3/8”,22,53
+Stanley,3/4” deep,imperial ,3/8”,26,56
+Stanley,5/8” spark plug,imperial ,3/8”,22,64
+Stanley,4mm,metric,1/4”,12,25
+Stanley,5mm,metric,1/4”,12,25
+Stanley,5.5mm,metric,1/4”,12,25
+Stanley,6mm,metric,1/4”,12,25
+Stanley,7mm,metric,1/4”,12,25
+Stanley,8mm,metric,1/4”,12,25
+Stanley,9mm,metric,1/4”,13,25
+Stanley,10mm,metric,1/4”,15,25
+Stanley,11mm,metric,1/4”,16,25
+Stanley,12mm,metric,1/4”,17,25
+Stanley,6mm deep,metric,1/4”,12,50
+Stanley,7mm deep,metric,1/4”,12,50
+Stanley,8mm deep,metric,1/4”,12,50
+Stanley,9mm deep,metric,1/4”,13,50
+Stanley,10mm deep,metric,1/4”,15,50
+Stanley,11mm deep,metric,1/4”,16,50
+Stanley,12mm deep,metric,1/4”,17,50
+Stanley,5/32”,imperial ,1/4”,12,25
+Stanley,3/16”,imperial ,1/4”,12,25
+Stanley,7/32”,imperial ,1/4”,12,25
+Stanley,1/4”,imperial ,1/4”,12,25
+Stanley,9/32”,imperial ,1/4”,12,25
+Stanley,5/16”,imperial ,1/4”,12,25
+Stanley,11/32”,imperial ,1/4”,13,25
+Stanley,3/8”,imperial ,1/4”,15,25
+Stanley,7/16”,imperial ,1/4”,16,25
+Stanley,1/4” deep,imperial ,1/4”,12,50
+Stanley,9/32” deep,imperial ,1/4”,12,50
+Stanley,5/16” deep,imperial ,1/4”,12,50
+Stanley,11/32” deep,imperial ,1/4”,13,50
+Stanley,3/8” deep,imperial ,1/4”,15,50
+Stanley,7/16” deep,imperial ,1/4”,16,50
+Stanley,1/2” deep,imperial ,1/4”,18,50
+Stanley,bit holder,N/A,1/4”,15,26
+Stanley,15mm,metric,1/2”,22,48
+Stanley,16mm,metric,1/2”,24,48
+Stanley,17mm,metric,1/2”,25,48
+Stanley,18mm,metric,1/2”,26,48
+Stanley,19mm,metric,1/2”,27,48
+Stanley,1/2”,imperial ,1/2”,22,48
+Stanley,9/16”,imperial ,1/2”,22,48
+Stanley,5/8”,imperial ,1/2”,24,48
+Stanley,11/16”,imperial ,1/2”,25,48
+Stanley,3/4”,imperial ,1/2”,27,48
+,,,,,
+bit extenders,Stanley,1/4” & 3/8”,,sketch,74 & 76
+ratchets,Stanley,1/4” & 3/8” & 1/2”,,sketch,
+,,,,,
+Maximum,6mm,metric,3/8”,18,29
+Maximum,8mm,metric,3/8”,18,29
+Maximum,10mm,metric,3/8”,18,29
+Maximum,11mm,metric,3/8”,18,29
+Maximum,12mm,metric,3/8”,18,29
+Maximum,13mm,metric,3/8”,20,29
+Maximum,14mm,metric,3/8”,20,29
+Maximum,17mm,metric,3/8”,24,30
+Maximum,19mm,metric,3/8”,28,30
+Maximum,12mm deep,metric,3/8”,18,63
+Maximum,13mm deep,metric,3/8”,20,63
+Maximum,14mm deep,metric,3/8”,20,63
+Maximum,17mm deep,metric,3/8”,24,63
+Maximum,19mm deep,metric,3/8”,28,63
+Maximum,5/16”,imperial ,3/8”,18,28
+Maximum,3/8”,imperial ,3/8”,18,28
+Maximum,7/16”,imperial ,3/8”,18,28
+Maximum,1/2”,imperial ,3/8”,20,28
+Maximum,9/16”,imperial ,3/8”,20,28
+Maximum,5/8”,imperial ,3/8”,24,28
+Maximum,11/16”,imperial ,3/8”,24,30
+Maximum,3/4”,imperial ,3/8”,28,30
+Maximum,3/8” deep,imperial ,3/8”,18,63
+Maximum,7/16” deep,imperial ,3/8”,18,63
+Maximum,1/2” deep,imperial ,3/8”,20,63
+Maximum,9/16” deep,imperial ,3/8”,20,63
+Maximum,5/8” deep,imperial ,3/8”,24,63
+Maximum,11/16” deep,imperial ,3/8”,24,63
+Maximum,3/4” deep,imperial ,3/8”,28,63
+Maximum,bit holder,N/A,3/8”,18,31
+Maximum,8mm,metric,1/2”,22,38
+Maximum,10mm,metric,1/2”,22,38
+Maximum,11mm,metric,1/2”,22,38
+Maximum,12mm,metric,1/2”,22,38
+Maximum,13mm,metric,1/2”,22,38
+Maximum,14mm,metric,1/2”,24,38
+Maximum,15mm,metric,1/2”,24,38
+Maximum,17mm,metric,1/2”,26,38
+Maximum,19mm,metric,1/2”,28,38
+Maximum,21mm,metric,1/2”,30,38
+Maximum,22mm,metric,1/2”,32,38
+Maximum,24mm,metric,1/2”,34,38
+Maximum,27mm,metric,1/2”,38,42
+Maximum,30mm,metric,1/2”,42,44
+Maximum,17mm deep,metric,1/2”,26,81
+Maximum,19mm deep,metric,1/2”,28,81
+Maximum,21mm deep,metric,1/2”,30,81
+Maximum,22mm deep,metric,1/2”,32,81
+Maximum,24mm deep,metric,1/2”,34,81
+Maximum,27mm deep,metric,1/2”,38,81
+Maximum,3/8”,imperial,1/2”,22,38
+Maximum,7/16”,imperial,1/2”,22,38
+Maximum,1/2”,imperial,1/2”,22,38
+Maximum,9/16”,imperial,1/2”,24,38
+Maximum,5/8”,imperial,1/2”,24,38
+Maximum,11/16”,imperial,1/2”,26,38
+Maximum,3/4”,imperial,1/2”,28,38
+Maximum,13/16”,imperial,1/2”,30,38
+Maximum,7/8”,imperial,1/2”,32,38
+Maximum,15/16”,imperial,1/2”,34,38
+Maximum,1”,imperial,1/2”,36,40
+Maximum,1-1/16”,imperial,1/2”,38,42
+Maximum,1-1/8”,imperial,1/2”,38,42
+Maximum,11/16” deep,imperial,1/2”,26,81
+Maximum,3/4” deep,imperial,1/2”,28,81
+Maximum,13/16” deep,imperial,1/2”,30,81
+Maximum,7/8” deep,imperial,1/2”,32,81
+Maximum,15/16” deep,imperial,1/2”,34,81
+Maximum,1” deep,imperial,1/2”,36,81
+Maximum,universal joint,N/A,1/2”,31,sketch
+Maximum,bit holder,N/A,1/2”,22,38
